@@ -1,9 +1,9 @@
 ### Prazer! Meu nome é Felipe 👋
 
-- 🧑🏻‍🎓 &nbsp;Estou cursando Engenharia de Software na PUC-MG
 - 💼 &nbsp;Trabalho como Estagiário em Desenvolvimento de Software na DTI Digital
-- ❤️ &nbsp; Apaixonado por Desenvolvimento Web
-- 💻 &nbsp; Atualmente estudando React & Typescript
+- 🎓 &nbsp;Estou cursando Engenharia de Software na PUC-MG
+- ❤️ &nbsp;Apaixonado por Desenvolvimento Web
+- 💻 &nbsp;Atualmente estou utilizando tecnologias como React e C#
 
 <div>
   <a href="https://github.com/felipeevalerio">
@@ -15,6 +15,7 @@
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Felipe-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
