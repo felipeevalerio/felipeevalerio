@@ -1,6 +1,6 @@
 ### Prazer! Meu nome é Felipe 👋
 
-- 💼 &nbsp;Trabalho como Estagiário em Desenvolvimento de Software na DTI Digital
+- 💼 &nbsp;Trabalho como Desenvolvedor na DTI Digital
 - 🎓 &nbsp;Estou cursando Engenharia de Software na PUC-MG
 - ❤️ &nbsp;Apaixonado por Desenvolvimento Web
 - 💻 &nbsp;Atualmente estou utilizando tecnologias como React e C#
