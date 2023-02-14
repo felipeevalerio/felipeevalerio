@@ -3,7 +3,7 @@
 - 💼 &nbsp;Trabalho como Desenvolvedor na DTI Digital
 - 🎓 &nbsp;Estou cursando Engenharia de Software na PUC-MG
 - ❤️ &nbsp;Apaixonado por Desenvolvimento Web
-- 💻 &nbsp;Atualmente estou utilizando tecnologias como React e C#
+- 💻 &nbsp;Atualmente estou utilizando tecnologias como React, .NET e Typescript
 
 <div>
   <a href="https://github.com/felipeevalerio">
