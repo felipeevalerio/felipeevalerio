@@ -1,6 +1,6 @@
 ### Hey! I'm Felipe 👋
 
-- 💼 &nbsp; I'm a Tech Leader at Ânima Educação, an educational institution with more than 18 universities in Brazil.
+- 💼 &nbsp; I'm a Tech Leader at Ânima Educação, an educational institution with more than 18 universities in Brazil. (Allocated through dti digital)
 - ❤️ &nbsp; React.js Specialist and .NET Enthusiast
 - 💻 &nbsp; React.Js | Typescript | Node.js | Javascript | .NET | Jest | Next.JS | TailwindCSS | Styled-Components | SEO | React Query | React Hook Form | Redux and many other tools...
 
